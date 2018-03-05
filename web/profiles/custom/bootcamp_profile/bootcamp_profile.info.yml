@@ -1,0 +1,47 @@
+name: Bootcamp profile
+type: profile
+description: 'Template profile for any project'
+core: 8.x
+dependencies:
+  - automated_cron
+  - block
+  - block_content
+  - breakpoint
+  - ckeditor
+  - color
+  - comment
+  - config
+  - contact
+  - contextual
+  - datetime
+  - dblog
+  - dynamic_page_cache
+  - editor
+  - field_ui
+  - file
+  - help
+  - history
+  - image
+  - menu_link_content
+  - menu_ui
+  - node
+  - options
+  - page_cache
+  - path
+  - quickedit
+  - taxonomy
+  - shortcut
+  - toolbar
+  - rdf
+  - tour
+  - text
+  - user
+  - views
+  - views_ui
+  - link
+distribution:
+  name: Bootcamp profile
+  langcode: en
+
+themes:
+  - seven
