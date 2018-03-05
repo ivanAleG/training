@@ -1,10 +1,6 @@
 #! /bin/bash
 
-/bin/chmod 777 /var/www/bootcamp/web/sites/default/settings.php;
-/bin/rm /var/www/bootcamp/web/sites/default/settings.php;
-sudo -E /bin/chmod 777 /var/www/bootcamp/web/sites/default;
-
-/usr/bin/composer install;
+/usr/bin/composer install --no-interaction --no-progress --profile --prefer-dist;
 
 cd /var/www/bootcamp/web;
 
