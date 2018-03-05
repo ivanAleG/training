@@ -14,5 +14,4 @@ To set up your local environment and begin developing for this project follow th
 * vagrant up
 * vagrant ssh
 * cd /var/www/bootcamp
-* composer install
-* source /home/vagrant/.bashrc
+* execute: ./drupal_install.sh
