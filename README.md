@@ -5,7 +5,7 @@ This is the bootcamp website based on Drupal 8 and BLT, an open-source project t
 ## Getting Started
 
 To set up your local environment and begin developing for this project follow those steps:
-* git clone git@github.com:GlobantMTA/website.git bootcamp
+* git clone git@github.com:apina-globant/training.git bootcamp
 
 * cd bootcamp
 * git clone git@github.com:geerlingguy/drupal-vm.git --branch 4.6.0 --single-branch vm
