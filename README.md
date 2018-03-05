@@ -1,6 +1,6 @@
 # MTA Project
 
-This is the bootcamp website based on Drupal 8 and BLT, an open-source project template and tool that enables building, testing, using the best practices.
+This is the bootcamp website based on Drupal 8, an open-source project template and tool that enables building, testing, using the best practices.
 
 ## Getting Started
 
