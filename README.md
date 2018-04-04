@@ -16,3 +16,12 @@ To set up your local environment and begin developing for this project follow th
 * vagrant ssh
 * cd /var/www/bootcamp
 * execute: ./drupal_install.sh
+
+## Getting Started
+
+drupal URL: http://local.bootcamp.com
+
+* user:     admin
+* password: admin
+
+examples base URL: http://examples.local.bootcamp.com
