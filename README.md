@@ -17,7 +17,7 @@ To set up your local environment and begin developing for this project follow th
 * cd /var/www/bootcamp
 * execute: ./drupal_install.sh
 
-## Getting Started
+## General information
 
 drupal URL: http://local.bootcamp.com
 
