@@ -51,13 +51,13 @@ nodejs_npm_global_packages:
 nodejs_install_npm_user: "{{ drupalvm_user }}"
 npm_config_prefix: "/home/{{ drupalvm_user }}/.npm-global"
 installed_extras:
-  - adminer
+  # - adminer
   - drush
   - drupalconsole
-  - mailhog
+  # - mailhog
   - nodejs
-  - xdebug
-  - memcached
+  # - xdebug
+  # - memcached
 
 # apache_vhosts_ssl:
 #   - servername: "{{ drupal_domain }}"
